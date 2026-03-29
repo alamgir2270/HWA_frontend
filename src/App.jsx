@@ -2,8 +2,8 @@ import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 
 // Public pages
 import Home from "./pages/Home";
-import Login from "./pages/auth/Login";
-import Signup from "./pages/auth/Signup";
+import Login from "./pages/auth/login";
+import Signup from "./pages/auth/signup";
 import ForgotPassword from "./pages/auth/ForgotPassword";
 import ResetPassword from "./pages/auth/ResetPassword";
 
